@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true,
+    "source.fixAll": true,
+    "source.addMissingImports": true
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  }
+}
